@@ -1,2 +1,2 @@
 # c-sharp
- Curso de CSharp ministrado na Impacta
+ Curso de CSharp ministrado - IMPACTA
