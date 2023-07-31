@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\bin\Debug\net6.0\02TiposNumericosPontoFlutuante.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\bin\Debug\net6.0\02TiposNumericosPontoFlutuante.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\bin\Debug\net6.0\02TiposNumericosPontoFlutuante.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\bin\Debug\net6.0\02TiposNumericosPontoFlutuante.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\bin\Debug\net6.0\02TiposNumericosPontoFlutuante.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\refint\02TiposNumericosPontoFlutuante.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\02TiposNumericosPontoFlutuante.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\02TiposNumericosPontoFlutuante\obj\Debug\net6.0\ref\02TiposNumericosPontoFlutuante.dll

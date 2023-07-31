@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\bin\Debug\net6.0\03TipoBool.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\bin\Debug\net6.0\03TipoBool.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\bin\Debug\net6.0\03TipoBool.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\bin\Debug\net6.0\03TipoBool.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\bin\Debug\net6.0\03TipoBool.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\refint\03TipoBool.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\03TipoBool.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\03TipoBool\obj\Debug\net6.0\ref\03TipoBool.dll

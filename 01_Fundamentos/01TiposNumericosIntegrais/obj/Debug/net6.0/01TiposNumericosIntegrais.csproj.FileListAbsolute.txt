@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\bin\Debug\net6.0\01TiposNumericosIntegrais.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\bin\Debug\net6.0\01TiposNumericosIntegrais.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\bin\Debug\net6.0\01TiposNumericosIntegrais.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\bin\Debug\net6.0\01TiposNumericosIntegrais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\bin\Debug\net6.0\01TiposNumericosIntegrais.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\refint\01TiposNumericosIntegrais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\01TiposNumericosIntegrais.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\01TiposNumericosIntegrais\obj\Debug\net6.0\ref\01TiposNumericosIntegrais.dll
