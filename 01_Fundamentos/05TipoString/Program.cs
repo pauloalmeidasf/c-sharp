@@ -1,7 +1,10 @@
 ﻿/*
  * Tipo String
+ * 
  * Armazenado na memória Heap
  * Tipo: Referência
+ * Valor padrão: null
+ * 
  * Referência 01: https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-7.0
  * Referência 02: https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/reference-types
  * 

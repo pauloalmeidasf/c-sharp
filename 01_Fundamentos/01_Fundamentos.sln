@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01TiposNumericosIntegrais", "01TiposNumericosIntegrais\01TiposNumericosIntegrais.csproj", "{FB51BE7D-3829-4EFB-A95C-2C331051538B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01TiposNumericosIntegrais", "01TiposNumericosIntegrais\01TiposNumericosIntegrais.csproj", "{FB51BE7D-3829-4EFB-A95C-2C331051538B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TiposNumericosPontoFlutuante", "02TiposNumericosPontoFlutuante\02TiposNumericosPontoFlutuante.csproj", "{3F70484E-2472-4B32-9E1D-5F370E61461C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02TiposNumericosPontoFlutuante", "02TiposNumericosPontoFlutuante\02TiposNumericosPontoFlutuante.csproj", "{3F70484E-2472-4B32-9E1D-5F370E61461C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TipoBool", "03TipoBool\03TipoBool.csproj", "{78F7F4D0-2BF8-488D-9543-2BE3492026F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03TipoBool", "03TipoBool\03TipoBool.csproj", "{78F7F4D0-2BF8-488D-9543-2BE3492026F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04TipoChar", "04TipoChar\04TipoChar.csproj", "{B6918736-CFF7-4847-970B-D107478F6694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04TipoChar", "04TipoChar\04TipoChar.csproj", "{B6918736-CFF7-4847-970B-D107478F6694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05TipoString", "05TipoString\05TipoString.csproj", "{69C4D298-5CE5-4B05-A934-F3F553E2A546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05TipoString", "05TipoString\05TipoString.csproj", "{69C4D298-5CE5-4B05-A934-F3F553E2A546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06TipoObject", "06TipoObject\06TipoObject.csproj", "{4141C24F-D9C7-45EC-AA4D-6B09700F59AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{69C4D298-5CE5-4B05-A934-F3F553E2A546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C4D298-5CE5-4B05-A934-F3F553E2A546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C4D298-5CE5-4B05-A934-F3F553E2A546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4141C24F-D9C7-45EC-AA4D-6B09700F59AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4141C24F-D9C7-45EC-AA4D-6B09700F59AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4141C24F-D9C7-45EC-AA4D-6B09700F59AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4141C24F-D9C7-45EC-AA4D-6B09700F59AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
