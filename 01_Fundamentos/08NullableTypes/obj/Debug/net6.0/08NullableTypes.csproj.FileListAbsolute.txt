@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\bin\Debug\net6.0\08NullableTypes.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\bin\Debug\net6.0\08NullableTypes.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\bin\Debug\net6.0\08NullableTypes.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\bin\Debug\net6.0\08NullableTypes.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\bin\Debug\net6.0\08NullableTypes.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\refint\08NullableTypes.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\08NullableTypes.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\08NullableTypes\obj\Debug\net6.0\ref\08NullableTypes.dll

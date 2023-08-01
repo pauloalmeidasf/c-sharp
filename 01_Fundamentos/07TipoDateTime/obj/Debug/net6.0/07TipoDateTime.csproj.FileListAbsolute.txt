@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\bin\Debug\net6.0\07TipoDateTime.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\bin\Debug\net6.0\07TipoDateTime.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\bin\Debug\net6.0\07TipoDateTime.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\bin\Debug\net6.0\07TipoDateTime.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\bin\Debug\net6.0\07TipoDateTime.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\refint\07TipoDateTime.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\07TipoDateTime.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\07TipoDateTime\obj\Debug\net6.0\ref\07TipoDateTime.dll
