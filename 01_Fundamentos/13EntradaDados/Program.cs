@@ -61,6 +61,6 @@ Console.WriteLine($"Tecla utilizada: {tecla.Key}");
 
 Console.WriteLine();
 
-Console.WriteLine("Pressione qualquer tecla para finalizar...");
+Console.Write("Pressione qualquer tecla para finalizar...");
 
 Console.ReadKey();
