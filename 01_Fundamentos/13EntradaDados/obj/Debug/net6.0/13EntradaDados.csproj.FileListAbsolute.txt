@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\bin\Debug\net6.0\13EntradaDados.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\bin\Debug\net6.0\13EntradaDados.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\bin\Debug\net6.0\13EntradaDados.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\bin\Debug\net6.0\13EntradaDados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\bin\Debug\net6.0\13EntradaDados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\refint\13EntradaDados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\13EntradaDados.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\13EntradaDados\obj\Debug\net6.0\ref\13EntradaDados.dll
