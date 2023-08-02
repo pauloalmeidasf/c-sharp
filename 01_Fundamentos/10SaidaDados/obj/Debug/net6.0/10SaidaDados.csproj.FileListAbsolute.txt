@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\bin\Debug\net6.0\10SaidaDados.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\bin\Debug\net6.0\10SaidaDados.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\bin\Debug\net6.0\10SaidaDados.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\bin\Debug\net6.0\10SaidaDados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\bin\Debug\net6.0\10SaidaDados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\refint\10SaidaDados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\10SaidaDados.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\10SaidaDados\obj\Debug\net6.0\ref\10SaidaDados.dll

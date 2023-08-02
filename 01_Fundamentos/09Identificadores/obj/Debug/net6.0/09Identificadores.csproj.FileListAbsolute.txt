@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\bin\Debug\net6.0\09Identificadores.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\bin\Debug\net6.0\09Identificadores.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\bin\Debug\net6.0\09Identificadores.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\bin\Debug\net6.0\09Identificadores.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\bin\Debug\net6.0\09Identificadores.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\refint\09Identificadores.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\09Identificadores.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\09Identificadores\obj\Debug\net6.0\ref\09Identificadores.dll

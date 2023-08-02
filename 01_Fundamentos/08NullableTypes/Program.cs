@@ -7,6 +7,8 @@
  * 
  * Null: valor ausente ou indefinido
  * 
+ * https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/nullable-value-types
+ * 
  */
 
 Console.WriteLine("Nullable Types");
@@ -47,8 +49,7 @@ Console.WriteLine();
 //int? h = null;
 //int i = h;
 
-Console.WriteLine("Coalescência Nula");
-Console.WriteLine();
+
 
 /*
  * Coalescência Nula (??)
@@ -60,6 +61,9 @@ Console.WriteLine();
  * Se o valor de 'h' for igual a null, i receberá o valor do operando direito do operador ??
  * 
  */
+
+Console.WriteLine("Coalescência Nula");
+Console.WriteLine();
 
 int? h = null;
 int i = h ?? -1;
