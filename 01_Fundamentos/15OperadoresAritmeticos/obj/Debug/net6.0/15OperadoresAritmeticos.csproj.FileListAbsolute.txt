@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\bin\Debug\net6.0\15OperadoresAritmeticos.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\bin\Debug\net6.0\15OperadoresAritmeticos.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\bin\Debug\net6.0\15OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\bin\Debug\net6.0\15OperadoresAritmeticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\bin\Debug\net6.0\15OperadoresAritmeticos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\refint\15OperadoresAritmeticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\15OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\15OperadoresAritmeticos\obj\Debug\net6.0\ref\15OperadoresAritmeticos.dll

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\bin\Debug\net6.0\16InferenciaTipos.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\bin\Debug\net6.0\16InferenciaTipos.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\bin\Debug\net6.0\16InferenciaTipos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\bin\Debug\net6.0\16InferenciaTipos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\bin\Debug\net6.0\16InferenciaTipos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\refint\16InferenciaTipos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\16InferenciaTipos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\16InferenciaTipos\obj\Debug\net6.0\ref\16InferenciaTipos.dll
