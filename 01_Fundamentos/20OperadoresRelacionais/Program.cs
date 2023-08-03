@@ -18,8 +18,6 @@
  * 
  */
 
-using System.Diagnostics.SymbolStore;
-
 Console.WriteLine("Operadores Relacionais");
 Console.WriteLine();
 

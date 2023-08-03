@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "24OperadoresUnarioTernario/1.0.0": {
+        "runtime": {
+          "24OperadoresUnarioTernario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "24OperadoresUnarioTernario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\bin\Debug\net6.0\23ReferênciasAnulaveis.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\bin\Debug\net6.0\23ReferênciasAnulaveis.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\bin\Debug\net6.0\23ReferênciasAnulaveis.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\bin\Debug\net6.0\23ReferênciasAnulaveis.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\bin\Debug\net6.0\23ReferênciasAnulaveis.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\refint\23ReferênciasAnulaveis.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\23ReferênciasAnulaveis.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\23ReferênciasAnulaveis\obj\Debug\net6.0\ref\23ReferênciasAnulaveis.dll

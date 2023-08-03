@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\bin\Debug\net6.0\24OperadoresUnarioTernario.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\bin\Debug\net6.0\24OperadoresUnarioTernario.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\bin\Debug\net6.0\24OperadoresUnarioTernario.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\bin\Debug\net6.0\24OperadoresUnarioTernario.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\bin\Debug\net6.0\24OperadoresUnarioTernario.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\refint\24OperadoresUnarioTernario.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\24OperadoresUnarioTernario.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01_Fundamentos\24OperadoresUnarioTernario\obj\Debug\net6.0\ref\24OperadoresUnarioTernario.dll
