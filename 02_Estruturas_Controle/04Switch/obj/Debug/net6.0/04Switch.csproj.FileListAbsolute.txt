@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\bin\Debug\net6.0\04Switch.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\bin\Debug\net6.0\04Switch.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\bin\Debug\net6.0\04Switch.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\bin\Debug\net6.0\04Switch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\bin\Debug\net6.0\04Switch.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\refint\04Switch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\04Switch.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\04Switch\obj\Debug\net6.0\ref\04Switch.dll

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\bin\Debug\net6.0\03IfElseIf.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\bin\Debug\net6.0\03IfElseIf.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\bin\Debug\net6.0\03IfElseIf.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\bin\Debug\net6.0\03IfElseIf.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\bin\Debug\net6.0\03IfElseIf.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\refint\03IfElseIf.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\03IfElseIf.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\03IfElseIf\obj\Debug\net6.0\ref\03IfElseIf.dll
