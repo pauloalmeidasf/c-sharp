@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\bin\Debug\net6.0\10BreakContinue.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\bin\Debug\net6.0\10BreakContinue.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\bin\Debug\net6.0\10BreakContinue.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\bin\Debug\net6.0\10BreakContinue.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\bin\Debug\net6.0\10BreakContinue.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\refint\10BreakContinue.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\10BreakContinue.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\02_Estruturas_Controle\10BreakContinue\obj\Debug\net6.0\ref\10BreakContinue.dll

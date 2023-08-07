@@ -7,8 +7,6 @@
  * 
  */
 
-using System.Xml;
-
 Console.WriteLine("Loop while");
 Console.WriteLine();
 
@@ -48,7 +46,7 @@ if(numero > 0)
 
     while (contador < 11)
     {
-        Console.WriteLine($"{numero} * {contador} = {numero * contador}");
+        Console.WriteLine($"{numero} * {contador}: {numero * contador}");
         contador++;
     }
 
@@ -62,6 +60,6 @@ else
 
 Console.WriteLine();
 
-Console.WriteLine("Pressione qualquer tecla para finalizar...");
+Console.Write("Pressione qualquer tecla para finalizar...");
 
 Console.ReadKey();
