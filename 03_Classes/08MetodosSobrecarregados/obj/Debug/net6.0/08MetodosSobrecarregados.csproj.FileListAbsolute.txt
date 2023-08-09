@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\bin\Debug\net6.0\08MetodosSobrecarregados.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\bin\Debug\net6.0\08MetodosSobrecarregados.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\bin\Debug\net6.0\08MetodosSobrecarregados.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\bin\Debug\net6.0\08MetodosSobrecarregados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\bin\Debug\net6.0\08MetodosSobrecarregados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\refint\08MetodosSobrecarregados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\08MetodosSobrecarregados.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\08MetodosSobrecarregados\obj\Debug\net6.0\ref\08MetodosSobrecarregados.dll

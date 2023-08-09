@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\bin\Debug\net6.0\03MetodosParametros.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\bin\Debug\net6.0\03MetodosParametros.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\bin\Debug\net6.0\03MetodosParametros.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\bin\Debug\net6.0\03MetodosParametros.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\bin\Debug\net6.0\03MetodosParametros.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\refint\03MetodosParametros.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\03MetodosParametros.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\03MetodosParametros\obj\Debug\net6.0\ref\03MetodosParametros.dll

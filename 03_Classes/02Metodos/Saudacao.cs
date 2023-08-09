@@ -9,19 +9,22 @@ namespace Classes;
 internal class Saudacao
 {
 
-    public void ExibirSaudacao()
-    {
+    //public void ExibirSaudacao()
+    //{
 
-        Console.WriteLine($"Olá, hoje é {ObterDataHoraAtual():g}");
+    //    Console.WriteLine($"Olá, hoje é {ObterDataHoraAtual():g}");
 
-    }
+    //}
 
-    private DateTime ObterDataHoraAtual()
-    {
+    public void ExibirSaudacao() => Console.WriteLine($"Olá, hoje é {ObterDataHoraAtual():g}");
 
-        return DateTime.Now;
+    //private DateTime ObterDataHoraAtual()
+    //{
 
-    }
+    //    return DateTime.Now;
+
+    //}
+
+    private DateTime ObterDataHoraAtual() => DateTime.Now;
 
 }
-

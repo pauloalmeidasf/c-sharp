@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\bin\Debug\net6.0\07MetodosRetorno.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\bin\Debug\net6.0\07MetodosRetorno.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\bin\Debug\net6.0\07MetodosRetorno.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\bin\Debug\net6.0\07MetodosRetorno.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\bin\Debug\net6.0\07MetodosRetorno.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\refint\07MetodosRetorno.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\07MetodosRetorno.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\06MetodosRetorno\obj\Debug\net6.0\ref\07MetodosRetorno.dll
