@@ -1,7 +1,4 @@
-﻿using System.Globalization;
-using System.Reflection;
-
-namespace Classes;
+﻿namespace Classes;
 
 internal class Calculadora
 {

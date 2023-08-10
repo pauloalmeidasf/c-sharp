@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\refint\12ArgumentosNomeados.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\12ArgumentosNomeados\obj\Debug\net6.0\ref\12ArgumentosNomeados.dll

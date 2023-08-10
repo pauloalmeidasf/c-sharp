@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\bin\Debug\net6.0\16Propriedades.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\bin\Debug\net6.0\16Propriedades.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\bin\Debug\net6.0\16Propriedades.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\bin\Debug\net6.0\16Propriedades.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\bin\Debug\net6.0\16Propriedades.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\refint\16Propriedades.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\16Propriedades.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\16Propriedades\obj\Debug\net6.0\ref\16Propriedades.dll

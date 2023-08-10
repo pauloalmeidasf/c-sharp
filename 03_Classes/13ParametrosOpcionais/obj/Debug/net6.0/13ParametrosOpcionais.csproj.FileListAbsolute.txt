@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\refint\13ParametrosOpcionais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\13ParametrosOpcionais\obj\Debug\net6.0\ref\13ParametrosOpcionais.dll
