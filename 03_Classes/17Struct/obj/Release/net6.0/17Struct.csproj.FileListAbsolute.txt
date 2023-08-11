@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\bin\Release\net6.0\17Struct.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\bin\Release\net6.0\17Struct.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\bin\Release\net6.0\17Struct.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\bin\Release\net6.0\17Struct.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\bin\Release\net6.0\17Struct.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\refint\17Struct.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\17Struct.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\17Struct\obj\Release\net6.0\ref\17Struct.dll

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\bin\Release\net6.0\10ArgumentosReferencia.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\bin\Release\net6.0\10ArgumentosReferencia.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\bin\Release\net6.0\10ArgumentosReferencia.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\bin\Release\net6.0\10ArgumentosReferencia.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\bin\Release\net6.0\10ArgumentosReferencia.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\refint\10ArgumentosReferencia.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\10ArgumentosReferencia.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\10ArgumentosReferencia\obj\Release\net6.0\ref\10ArgumentosReferencia.dll

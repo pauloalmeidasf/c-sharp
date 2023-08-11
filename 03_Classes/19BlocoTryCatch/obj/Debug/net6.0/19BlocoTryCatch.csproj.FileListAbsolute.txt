@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\bin\Debug\net6.0\19BlocoTryCatch.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\bin\Debug\net6.0\19BlocoTryCatch.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\bin\Debug\net6.0\19BlocoTryCatch.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\bin\Debug\net6.0\19BlocoTryCatch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\bin\Debug\net6.0\19BlocoTryCatch.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\refint\19BlocoTryCatch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\19BlocoTryCatch.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\19BlocoTryCatch\obj\Debug\net6.0\ref\19BlocoTryCatch.dll

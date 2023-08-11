@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\bin\Release\net6.0\14MetodosEstaticos.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\bin\Release\net6.0\14MetodosEstaticos.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\bin\Release\net6.0\14MetodosEstaticos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\bin\Release\net6.0\14MetodosEstaticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\bin\Release\net6.0\14MetodosEstaticos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\refint\14MetodosEstaticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\14MetodosEstaticos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\14MetodosEstaticos\obj\Release\net6.0\ref\14MetodosEstaticos.dll

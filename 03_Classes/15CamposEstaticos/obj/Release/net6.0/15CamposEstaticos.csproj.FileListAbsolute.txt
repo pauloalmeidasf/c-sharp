@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\bin\Release\net6.0\15CamposEstaticos.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\bin\Release\net6.0\15CamposEstaticos.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\bin\Release\net6.0\15CamposEstaticos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\bin\Release\net6.0\15CamposEstaticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\bin\Release\net6.0\15CamposEstaticos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\refint\15CamposEstaticos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\15CamposEstaticos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\15CamposEstaticos\obj\Release\net6.0\ref\15CamposEstaticos.dll

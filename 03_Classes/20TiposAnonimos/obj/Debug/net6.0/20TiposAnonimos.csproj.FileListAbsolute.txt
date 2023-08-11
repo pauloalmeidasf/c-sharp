@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\bin\Debug\net6.0\20TiposAnonimos.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\bin\Debug\net6.0\20TiposAnonimos.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\bin\Debug\net6.0\20TiposAnonimos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\bin\Debug\net6.0\20TiposAnonimos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\bin\Debug\net6.0\20TiposAnonimos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\refint\20TiposAnonimos.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\20TiposAnonimos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\20TiposAnonimos\obj\Debug\net6.0\ref\20TiposAnonimos.dll

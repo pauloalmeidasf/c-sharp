@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\bin\Release\net6.0\04MetodosParametros2.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\bin\Release\net6.0\04MetodosParametros2.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\bin\Release\net6.0\04MetodosParametros2.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\bin\Release\net6.0\04MetodosParametros2.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\bin\Release\net6.0\04MetodosParametros2.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\refint\04MetodosParametros2.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\04MetodosParametros2.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\04MetodosParametros2\obj\Release\net6.0\ref\04MetodosParametros2.dll

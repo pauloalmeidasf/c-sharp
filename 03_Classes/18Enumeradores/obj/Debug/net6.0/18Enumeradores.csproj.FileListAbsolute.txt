@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\bin\Debug\net6.0\18Enumeradores.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\bin\Debug\net6.0\18Enumeradores.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\bin\Debug\net6.0\18Enumeradores.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\bin\Debug\net6.0\18Enumeradores.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\bin\Debug\net6.0\18Enumeradores.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\refint\18Enumeradores.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\18Enumeradores.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\03_Classes\18Enumeradores\obj\Debug\net6.0\ref\18Enumeradores.dll
