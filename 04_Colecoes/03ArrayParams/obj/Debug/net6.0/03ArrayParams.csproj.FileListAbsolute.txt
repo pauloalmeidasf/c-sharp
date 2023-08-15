@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\bin\Debug\net6.0\03ArrayParams.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\bin\Debug\net6.0\03ArrayParams.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\bin\Debug\net6.0\03ArrayParams.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\bin\Debug\net6.0\03ArrayParams.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\bin\Debug\net6.0\03ArrayParams.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\refint\03ArrayParams.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\03ArrayParams.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\03ArrayParams\obj\Debug\net6.0\ref\03ArrayParams.dll

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\bin\Debug\net6.0\04ArraysBidimensionais.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\bin\Debug\net6.0\04ArraysBidimensionais.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\bin\Debug\net6.0\04ArraysBidimensionais.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\bin\Debug\net6.0\04ArraysBidimensionais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\bin\Debug\net6.0\04ArraysBidimensionais.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\refint\04ArraysBidimensionais.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\04ArraysBidimensionais.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\04ArraysBidimensionais\obj\Debug\net6.0\ref\04ArraysBidimensionais.dll

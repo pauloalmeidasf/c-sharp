@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\bin\Debug\net6.0\06List.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\bin\Debug\net6.0\06List.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\bin\Debug\net6.0\06List.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\bin\Debug\net6.0\06List.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\bin\Debug\net6.0\06List.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\refint\06List.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\06List.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\04_Colecoes\06List\obj\Debug\net6.0\ref\06List.dll
