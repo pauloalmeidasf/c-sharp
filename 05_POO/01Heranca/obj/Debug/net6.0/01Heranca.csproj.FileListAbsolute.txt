@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\bin\Debug\net6.0\01Heranca.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\bin\Debug\net6.0\01Heranca.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\bin\Debug\net6.0\01Heranca.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\bin\Debug\net6.0\01Heranca.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\bin\Debug\net6.0\01Heranca.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\refint\01Heranca.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\01Heranca.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\01Heranca\obj\Debug\net6.0\ref\01Heranca.dll

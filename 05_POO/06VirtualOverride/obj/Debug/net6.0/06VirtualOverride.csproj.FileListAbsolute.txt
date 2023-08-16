@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\bin\Debug\net6.0\06VirtualOverride.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\bin\Debug\net6.0\06VirtualOverride.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\bin\Debug\net6.0\06VirtualOverride.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\bin\Debug\net6.0\06VirtualOverride.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\bin\Debug\net6.0\06VirtualOverride.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\refint\06VirtualOverride.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\06VirtualOverride.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\06VirtualOverride\obj\Debug\net6.0\ref\06VirtualOverride.dll

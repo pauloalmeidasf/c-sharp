@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\bin\Debug\net6.0\02ModificadoresAcesso.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\bin\Debug\net6.0\02ModificadoresAcesso.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\bin\Debug\net6.0\02ModificadoresAcesso.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\bin\Debug\net6.0\02ModificadoresAcesso.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\bin\Debug\net6.0\02ModificadoresAcesso.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\refint\02ModificadoresAcesso.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\02ModificadoresAcesso.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\02ModificadoresAcesso\obj\Debug\net6.0\ref\02ModificadoresAcesso.dll
