@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\bin\Debug\net6.0\08UpcastingDowncasting.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\bin\Debug\net6.0\08UpcastingDowncasting.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\bin\Debug\net6.0\08UpcastingDowncasting.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\bin\Debug\net6.0\08UpcastingDowncasting.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\bin\Debug\net6.0\08UpcastingDowncasting.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\refint\08UpcastingDowncasting.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\08UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\08UpcastingDowncasting\obj\Debug\net6.0\ref\08UpcastingDowncasting.dll

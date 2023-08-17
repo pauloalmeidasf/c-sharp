@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\bin\Debug\net6.0\07ModificadorSealed.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\bin\Debug\net6.0\07ModificadorSealed.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\bin\Debug\net6.0\07ModificadorSealed.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\bin\Debug\net6.0\07ModificadorSealed.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\bin\Debug\net6.0\07ModificadorSealed.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\refint\07ModificadorSealed.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\07ModificadorSealed.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\07ModificadorSealed\obj\Debug\net6.0\ref\07ModificadorSealed.dll

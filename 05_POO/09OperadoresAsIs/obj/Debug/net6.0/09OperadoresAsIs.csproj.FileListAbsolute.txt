@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\bin\Debug\net6.0\09OperadoresAsIs.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\bin\Debug\net6.0\09OperadoresAsIs.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\bin\Debug\net6.0\09OperadoresAsIs.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\bin\Debug\net6.0\09OperadoresAsIs.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\bin\Debug\net6.0\09OperadoresAsIs.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\refint\09OperadoresAsIs.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\09OperadoresAsIs.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\09OperadoresAsIs\obj\Debug\net6.0\ref\09OperadoresAsIs.dll
