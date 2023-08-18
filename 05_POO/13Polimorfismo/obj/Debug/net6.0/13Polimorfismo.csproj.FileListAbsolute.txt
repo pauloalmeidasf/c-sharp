@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\bin\Debug\net6.0\13Polimorfismo.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\bin\Debug\net6.0\13Polimorfismo.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\bin\Debug\net6.0\13Polimorfismo.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\bin\Debug\net6.0\13Polimorfismo.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\bin\Debug\net6.0\13Polimorfismo.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\refint\13Polimorfismo.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\13Polimorfismo.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\13Polimorfismo\obj\Debug\net6.0\ref\13Polimorfismo.dll

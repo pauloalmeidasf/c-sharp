@@ -15,13 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05ModificadorNew", "05Modif
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06VirtualOverride", "06VirtualOverride\06VirtualOverride.csproj", "{CC36347D-D8E4-456E-81A6-710FD6C3E57A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07ModificadorSealed", "07ModificadorSealed\07ModificadorSealed.csproj", "{84879B7D-4E3C-4390-811B-772429399C56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07ModificadorSealed", "07ModificadorSealed\07ModificadorSealed.csproj", "{84879B7D-4E3C-4390-811B-772429399C56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08UpcastingDowncasting", "08UpcastingDowncasting\08UpcastingDowncasting.csproj", "{51AB7B8D-8FCF-4DD2-A3F4-0EFDB01BA51F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08UpcastingDowncasting", "08UpcastingDowncasting\08UpcastingDowncasting.csproj", "{51AB7B8D-8FCF-4DD2-A3F4-0EFDB01BA51F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09OperadoresAsIs", "09OperadoresAsIs\09OperadoresAsIs.csproj", "{6A54DC7F-AAB5-4265-BAB1-581468D00C0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09OperadoresAsIs", "09OperadoresAsIs\09OperadoresAsIs.csproj", "{6A54DC7F-AAB5-4265-BAB1-581468D00C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Abstract", "10Abstract\10Abstract.csproj", "{B475BAEF-84B0-4BF7-9393-E5B31D2C4884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Abstract", "10Abstract\10Abstract.csproj", "{B475BAEF-84B0-4BF7-9393-E5B31D2C4884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Interfaces", "11Interfaces\11Interfaces.csproj", "{68742069-B91A-447C-ACB5-DA6EAEACC8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12InterfacesAplicacao", "12InterfacesAplicacao\12InterfacesAplicacao.csproj", "{181D34BA-656C-4347-94E8-CA0D2579C82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Polimorfismo", "13Polimorfismo\13Polimorfismo.csproj", "{43A2218A-D359-4E53-B4C1-6719C9BACD4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{B475BAEF-84B0-4BF7-9393-E5B31D2C4884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B475BAEF-84B0-4BF7-9393-E5B31D2C4884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B475BAEF-84B0-4BF7-9393-E5B31D2C4884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68742069-B91A-447C-ACB5-DA6EAEACC8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68742069-B91A-447C-ACB5-DA6EAEACC8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68742069-B91A-447C-ACB5-DA6EAEACC8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68742069-B91A-447C-ACB5-DA6EAEACC8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181D34BA-656C-4347-94E8-CA0D2579C82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181D34BA-656C-4347-94E8-CA0D2579C82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181D34BA-656C-4347-94E8-CA0D2579C82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181D34BA-656C-4347-94E8-CA0D2579C82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A2218A-D359-4E53-B4C1-6719C9BACD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A2218A-D359-4E53-B4C1-6719C9BACD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A2218A-D359-4E53-B4C1-6719C9BACD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A2218A-D359-4E53-B4C1-6719C9BACD4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

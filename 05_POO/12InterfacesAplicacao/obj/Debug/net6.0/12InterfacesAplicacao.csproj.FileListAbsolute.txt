@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\bin\Debug\net6.0\12InterfacesAplicacao.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\bin\Debug\net6.0\12InterfacesAplicacao.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\bin\Debug\net6.0\12InterfacesAplicacao.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\bin\Debug\net6.0\12InterfacesAplicacao.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\bin\Debug\net6.0\12InterfacesAplicacao.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\refint\12InterfacesAplicacao.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\12InterfacesAplicacao.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\05_POO\12InterfacesAplicacao\obj\Debug\net6.0\ref\12InterfacesAplicacao.dll

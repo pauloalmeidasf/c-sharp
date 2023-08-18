@@ -22,9 +22,8 @@ Circulo circulo = new Circulo(3, 5);
 Forma f1 = circulo;
 
 //downcasting (conversão explícita): pode ocorrer uma exceção
-//Circulo c1 = (Circulo)f1;
 
-Veiculo? veiculo = new Veiculo();
+//Circulo c1 = (Circulo)f1;
 
 Circulo? c1 = f1 as Circulo;
 
@@ -67,7 +66,9 @@ Forma f2 = novoCirculo;
 
 //verifica se o downcasting (conversão explícita) é possível
 
-if (veiculo is Circulo)
+Veiculo automovel = new Veiculo();
+
+if (f2 is Circulo)
 {
 
     Circulo? c2 = f2 as Circulo;
