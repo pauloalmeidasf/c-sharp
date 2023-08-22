@@ -29,7 +29,6 @@ Console.WriteLine();
 //Stack<int> valores = new();
 var valores = new Stack<int>();
 
-
 //Insere item na pilha
 valores.Push(1000);
 valores.Push(1005);
@@ -46,7 +45,12 @@ Exibir(valores);
 Console.WriteLine();
 
 //Remove item da pilha
-valores.Pop();
+if(valores.Count > 0)
+{
+
+    valores.Pop();
+
+}
 
 Console.WriteLine($"Itens da pilha após remover item: ");
 Console.WriteLine();
