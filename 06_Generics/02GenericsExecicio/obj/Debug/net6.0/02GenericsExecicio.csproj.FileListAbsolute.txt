@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\bin\Debug\net6.0\02GenericsExecicio.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\bin\Debug\net6.0\02GenericsExecicio.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\bin\Debug\net6.0\02GenericsExecicio.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\bin\Debug\net6.0\02GenericsExecicio.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\bin\Debug\net6.0\02GenericsExecicio.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\refint\02GenericsExecicio.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\02GenericsExecicio.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\02GenericsExecicio\obj\Debug\net6.0\ref\02GenericsExecicio.dll

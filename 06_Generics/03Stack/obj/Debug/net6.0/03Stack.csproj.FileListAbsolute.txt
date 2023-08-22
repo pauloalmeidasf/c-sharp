@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\bin\Debug\net6.0\03Stack.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\bin\Debug\net6.0\03Stack.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\bin\Debug\net6.0\03Stack.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\bin\Debug\net6.0\03Stack.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\bin\Debug\net6.0\03Stack.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\refint\03Stack.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\03Stack.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\03Stack\obj\Debug\net6.0\ref\03Stack.dll
