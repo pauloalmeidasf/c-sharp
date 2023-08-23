@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\bin\Debug\net6.0\01TryCatch.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\bin\Debug\net6.0\01TryCatch.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\bin\Debug\net6.0\01TryCatch.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\bin\Debug\net6.0\01TryCatch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\bin\Debug\net6.0\01TryCatch.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\refint\01TryCatch.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\01TryCatch.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\01TryCatch\obj\Debug\net6.0\ref\01TryCatch.dll

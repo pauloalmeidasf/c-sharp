@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\bin\Debug\net6.0\06Yield.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\bin\Debug\net6.0\06Yield.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\bin\Debug\net6.0\06Yield.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\bin\Debug\net6.0\06Yield.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\bin\Debug\net6.0\06Yield.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\refint\06Yield.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\06Yield.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\06Yield\obj\Debug\net6.0\ref\06Yield.dll

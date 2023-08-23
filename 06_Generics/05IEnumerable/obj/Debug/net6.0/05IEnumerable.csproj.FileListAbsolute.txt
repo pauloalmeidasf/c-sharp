@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\bin\Debug\net6.0\05IEnumerable.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\bin\Debug\net6.0\05IEnumerable.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\bin\Debug\net6.0\05IEnumerable.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\bin\Debug\net6.0\05IEnumerable.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\bin\Debug\net6.0\05IEnumerable.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\refint\05IEnumerable.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\05IEnumerable.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\06_Generics\05IEnumerable\obj\Debug\net6.0\ref\05IEnumerable.dll

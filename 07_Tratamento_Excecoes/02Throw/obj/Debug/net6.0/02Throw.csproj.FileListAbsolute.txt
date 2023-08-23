@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\bin\Debug\net6.0\02Throw.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\bin\Debug\net6.0\02Throw.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\bin\Debug\net6.0\02Throw.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\bin\Debug\net6.0\02Throw.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\bin\Debug\net6.0\02Throw.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\refint\02Throw.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\02Throw.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\07_Tratamento_Excecoes\02Throw\obj\Debug\net6.0\ref\02Throw.dll
