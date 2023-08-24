@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\bin\Debug\net6.0\02DelegateMulticast.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\bin\Debug\net6.0\02DelegateMulticast.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\bin\Debug\net6.0\02DelegateMulticast.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\bin\Debug\net6.0\02DelegateMulticast.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\bin\Debug\net6.0\02DelegateMulticast.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\refint\02DelegateMulticast.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\02DelegateMulticast.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\02DelegateMulticast\obj\Debug\net6.0\ref\02DelegateMulticast.dll

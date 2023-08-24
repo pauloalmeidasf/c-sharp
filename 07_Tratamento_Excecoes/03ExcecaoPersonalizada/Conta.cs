@@ -18,6 +18,8 @@ internal class Conta
 
     public void Depositar(decimal valor)
     {
+        Console.WriteLine($"Depósito realizado");
+        Console.WriteLine();
         Saldo += valor;
     }
 
@@ -25,17 +27,19 @@ internal class Conta
     {
         if (Saldo >= valor)
         {
+            Console.WriteLine($"Saque realizado");
+            Console.WriteLine();
             Saldo -= valor;
         }
         else
         {
-            Console.WriteLine($"Saldo: {Saldo}");
+            Console.WriteLine($"Saque não pode ser realizado");
             throw new SaldoException();
         }
     }
 
     public override string ToString()
     {
-        return $"Conta: {Numero}\nSaldo: {Saldo}";
+        return $"Conta: {Numero}\nTitular: {Titular}\nSaldo: {Saldo}";
     }
 }
