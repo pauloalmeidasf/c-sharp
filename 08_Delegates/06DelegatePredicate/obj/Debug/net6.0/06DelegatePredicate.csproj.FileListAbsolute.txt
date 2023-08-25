@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\bin\Debug\net6.0\06DelegatePredicate.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\bin\Debug\net6.0\06DelegatePredicate.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\bin\Debug\net6.0\06DelegatePredicate.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\bin\Debug\net6.0\06DelegatePredicate.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\bin\Debug\net6.0\06DelegatePredicate.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\refint\06DelegatePredicate.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\06DelegatePredicate.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\06DelegatePredicate\obj\Debug\net6.0\ref\06DelegatePredicate.dll

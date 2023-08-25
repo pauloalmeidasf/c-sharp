@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\bin\Debug\net6.0\09DelegatesExemplo.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\bin\Debug\net6.0\09DelegatesExemplo.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\bin\Debug\net6.0\09DelegatesExemplo.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\bin\Debug\net6.0\09DelegatesExemplo.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\bin\Debug\net6.0\09DelegatesExemplo.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\refint\09DelegatesExemplo.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\09DelegatesExemplo.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\09DelegatesExemplo\obj\Debug\net6.0\ref\09DelegatesExemplo.dll

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\refint\07DelegateAction.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\08_Delegates\07DelegateAction\obj\Debug\net6.0\ref\07DelegateAction.dll
