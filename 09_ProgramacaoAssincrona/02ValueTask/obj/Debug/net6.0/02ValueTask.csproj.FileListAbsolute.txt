@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\bin\Debug\net6.0\02ValueTask.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\bin\Debug\net6.0\02ValueTask.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\bin\Debug\net6.0\02ValueTask.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\bin\Debug\net6.0\02ValueTask.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\bin\Debug\net6.0\02ValueTask.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\refint\02ValueTask.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\02ValueTask.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\09_ProgramacaoAssincrona\02ValueTask\obj\Debug\net6.0\ref\02ValueTask.dll
