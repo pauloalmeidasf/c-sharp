@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\bin\Debug\net6.0\01ArquivoJson.exe
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\bin\Debug\net6.0\01ArquivoJson.deps.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\bin\Debug\net6.0\01ArquivoJson.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\bin\Debug\net6.0\01ArquivoJson.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\bin\Debug\net6.0\01ArquivoJson.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\refint\01ArquivoJson.dll
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.pdb
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\01ArquivoJson.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamento-IMPACTA\c-sharp\01ArquivoJson\01ArquivoJson\obj\Debug\net6.0\ref\01ArquivoJson.dll
