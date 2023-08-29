@@ -1,0 +1,26 @@
+CREATE DATABASE DbProdutos;
+
+GO
+
+USE DbProdutos
+
+GO
+
+CREATE TABLE TBCategorias(
+Id INT IDENTITY(1,1),
+Descricao VARCHAR(20) NOT NULL,
+PRIMARY KEY(Id)
+)
+
+GO
+
+CREATE TABLE TBProdutos (
+Id INT IDENTITY(1,1),
+IdCategoria INT NOT NULL,
+Descricao VARCHAR(50) NOT NULL,
+Preco FLOAT NOT NULL,
+PRIMARY KEY(Id),
+FOREIGN KEY(IdCategoria) REFERENCES TBCategorias(Id)
+)
+
+GO
