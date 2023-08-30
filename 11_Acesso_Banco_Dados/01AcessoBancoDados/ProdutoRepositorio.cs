@@ -43,10 +43,12 @@ internal class ProdutoRepositorio
             Console.WriteLine();
 
         }
-        catch (Exception)
+        catch (Exception e)
         {
 
-            throw new Exception("Não foi possível cadastrar o Produto");
+
+            throw e;
+            //throw new Exception("Não foi possível cadastrar o Produto");
 
         }
 
@@ -71,7 +73,7 @@ internal class ProdutoRepositorio
                 foreach (var item in lista)
                 {
 
-                    Console.WriteLine($"Id: {item.IdProduto}, Descrição: {item.Descricao}, Preço: {item.Preco}");
+                    Console.WriteLine($"Id: {item.Id}, Descrição: {item.Descricao}, Preço: {item.Preco}");
 
                 }
 
@@ -156,7 +158,7 @@ internal class ProdutoRepositorio
 
             var produto = new Produto()
             {
-                IdProduto = codigo
+                Id = codigo
             };
 
             using (var conexao = new SqlConnection(DB.conexao))

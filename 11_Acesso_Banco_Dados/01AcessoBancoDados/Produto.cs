@@ -7,7 +7,7 @@ namespace Classes;
 internal class Produto
 {
 
-    public int IdProduto { get; set; }
+    public int Id { get; set; }
     public int IdCategoria { get; set; }
     public string? Descricao { get; set; }
     public double Preco { get; set; }
@@ -21,10 +21,10 @@ internal class Produto
         Preco = preco;
     }
 
-    public Produto(int idProduto, int idCategoria, string descricao, double preco) : this(idCategoria, descricao, preco)
+    public Produto(int codigoProduto, int codigoCategoria, string descricao, double preco) : this(codigoCategoria, descricao, preco)
     {
 
-        IdProduto = IdProduto;
+        Id = codigoProduto;
 
     }
 
